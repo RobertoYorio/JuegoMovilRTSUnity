@@ -1,6 +1,6 @@
 # JuegoMovilRTSUnity
-Este proyecto lo estoy desarollando en la actualidad el cual se basa en crear un juego 1v1 online para moviles. El genero es RTS pero con la dificultad de adaptarlo para moviles. Para de este proyecto se usara para mi TFG.
+Actualmente estoy desarrollando un proyecto que se basa en crear un juego 1v1 online para móviles. El género es RTS (estrategia en tiempo real), con el desafío adicional de adaptarlo para dispositivos móviles. Parte de este proyecto se utilizará para mi TFG (Trabajo de Fin de Grado).
 
 --------------------------
 
-I am currently developing this project which is based on creating a 1v1 online game for mobiles. The genre is RTS but with the difficulty of adapting it for mobiles. For this project will be used for my TFG.
+I am currently developing a project based on creating a 1v1 online game for mobile devices. The genre is RTS (real-time strategy), with the additional challenge of adapting it for mobile devices. Part of this project will be used for my TFG (Final Degree Project).
